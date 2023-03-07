@@ -1,4 +1,5 @@
 import sys
+
 import yaml
 from PyQt5 import QtCore, QtGui, QtWidgets
 
@@ -8,7 +9,7 @@ class Ui_MainWindow(object):
 
         # loading in the JSON data
         with open("../../notebooks/test_image_coords.json", "r") as contents:
-            image_data = yaml.safe_load(contents)
+            image_data = yaml.safe_load(contents)  # noqa: F841
 
         # creating main GUI window
         MainWindow.setObjectName("MainWindow")
