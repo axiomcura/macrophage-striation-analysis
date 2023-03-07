@@ -12,7 +12,8 @@
                 0,
                 256,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 2,
@@ -26,7 +27,8 @@
                 256,
                 256,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 3,
@@ -40,7 +42,8 @@
                 512,
                 256,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 4,
@@ -54,7 +57,8 @@
                 768,
                 256,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 5,
@@ -68,7 +72,8 @@
                 1024,
                 256,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 6,
@@ -82,7 +87,8 @@
                 1280,
                 256,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 7,
@@ -96,7 +102,8 @@
                 1536,
                 256,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 8,
@@ -110,7 +117,8 @@
                 0,
                 512,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 9,
@@ -124,7 +132,8 @@
                 256,
                 512,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 10,
@@ -138,7 +147,8 @@
                 512,
                 512,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 11,
@@ -152,7 +162,8 @@
                 768,
                 512,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 12,
@@ -166,7 +177,8 @@
                 1024,
                 512,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 13,
@@ -180,7 +192,8 @@
                 1280,
                 512,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 14,
@@ -194,7 +207,8 @@
                 1536,
                 512,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 15,
@@ -208,7 +222,8 @@
                 0,
                 768,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 16,
@@ -222,7 +237,8 @@
                 256,
                 768,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 17,
@@ -236,7 +252,8 @@
                 512,
                 768,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 18,
@@ -250,7 +267,8 @@
                 768,
                 768,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 19,
@@ -264,7 +282,8 @@
                 1024,
                 768,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 20,
@@ -278,7 +297,8 @@
                 1280,
                 768,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 21,
@@ -292,7 +312,8 @@
                 1536,
                 768,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 22,
@@ -306,7 +327,8 @@
                 0,
                 1024,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 23,
@@ -320,7 +342,8 @@
                 256,
                 1024,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 24,
@@ -334,7 +357,8 @@
                 512,
                 1024,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 25,
@@ -348,7 +372,8 @@
                 768,
                 1024,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 26,
@@ -362,7 +387,8 @@
                 1024,
                 1024,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 27,
@@ -376,7 +402,8 @@
                 1280,
                 1024,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 28,
@@ -390,7 +417,8 @@
                 1536,
                 1024,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 29,
@@ -404,7 +432,8 @@
                 0,
                 1280,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 30,
@@ -418,7 +447,8 @@
                 256,
                 1280,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 31,
@@ -432,7 +462,8 @@
                 512,
                 1280,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 32,
@@ -446,7 +477,8 @@
                 768,
                 1280,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 33,
@@ -460,7 +492,8 @@
                 1024,
                 1280,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 34,
@@ -474,7 +507,8 @@
                 1280,
                 1280,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 35,
@@ -488,7 +522,8 @@
                 1536,
                 1280,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 36,
@@ -502,7 +537,8 @@
                 0,
                 1536,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 37,
@@ -516,7 +552,8 @@
                 256,
                 1536,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 38,
@@ -530,7 +567,8 @@
                 512,
                 1536,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 39,
@@ -544,7 +582,8 @@
                 768,
                 1536,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 40,
@@ -558,7 +597,8 @@
                 1024,
                 1536,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 41,
@@ -572,7 +612,8 @@
                 1280,
                 1536,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 42,
@@ -586,7 +627,8 @@
                 1536,
                 1536,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 43,
@@ -600,7 +642,8 @@
                 0,
                 1792,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 44,
@@ -614,7 +657,8 @@
                 256,
                 1792,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 45,
@@ -628,7 +672,8 @@
                 512,
                 1792,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 46,
@@ -642,7 +687,8 @@
                 768,
                 1792,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 47,
@@ -656,7 +702,8 @@
                 1024,
                 1792,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 48,
@@ -670,7 +717,8 @@
                 1280,
                 1792,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 49,
@@ -684,7 +732,8 @@
                 1536,
                 1792,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 50,
@@ -698,7 +747,8 @@
                 0,
                 2048,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 51,
@@ -712,7 +762,8 @@
                 256,
                 2048,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 52,
@@ -726,7 +777,8 @@
                 512,
                 2048,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 53,
@@ -740,7 +792,8 @@
                 768,
                 2048,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 54,
@@ -754,7 +807,8 @@
                 1024,
                 2048,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 55,
@@ -768,7 +822,8 @@
                 1280,
                 2048,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 56,
@@ -782,7 +837,8 @@
                 1536,
                 2048,
                 1792
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 57,
@@ -796,7 +852,8 @@
                 0,
                 2304,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 58,
@@ -810,7 +867,8 @@
                 256,
                 2304,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 59,
@@ -824,7 +882,8 @@
                 512,
                 2304,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 60,
@@ -838,7 +897,8 @@
                 768,
                 2304,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 61,
@@ -852,7 +912,8 @@
                 1024,
                 2304,
                 1280
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 62,
@@ -866,7 +927,8 @@
                 1280,
                 2304,
                 1536
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 63,
@@ -880,7 +942,8 @@
                 1536,
                 2304,
                 1792
-            ]
+            ],
+            "classification": null
         }
     ],
     "cell_image_2.tiff": [
@@ -896,7 +959,8 @@
                 0,
                 256,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 2,
@@ -910,7 +974,8 @@
                 256,
                 256,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 3,
@@ -924,7 +989,8 @@
                 512,
                 256,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 4,
@@ -938,7 +1004,8 @@
                 768,
                 256,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 5,
@@ -952,7 +1019,8 @@
                 0,
                 512,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 6,
@@ -966,7 +1034,8 @@
                 256,
                 512,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 7,
@@ -980,7 +1049,8 @@
                 512,
                 512,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 8,
@@ -994,7 +1064,8 @@
                 768,
                 512,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 9,
@@ -1008,7 +1079,8 @@
                 0,
                 768,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 10,
@@ -1022,7 +1094,8 @@
                 256,
                 768,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 11,
@@ -1036,7 +1109,8 @@
                 512,
                 768,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 12,
@@ -1050,7 +1124,8 @@
                 768,
                 768,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 13,
@@ -1064,7 +1139,8 @@
                 0,
                 1024,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 14,
@@ -1078,7 +1154,8 @@
                 256,
                 1024,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 15,
@@ -1092,7 +1169,8 @@
                 512,
                 1024,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 16,
@@ -1106,7 +1184,8 @@
                 768,
                 1024,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 17,
@@ -1120,7 +1199,8 @@
                 0,
                 1280,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 18,
@@ -1134,7 +1214,8 @@
                 256,
                 1280,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 19,
@@ -1148,7 +1229,8 @@
                 512,
                 1280,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 20,
@@ -1162,7 +1244,8 @@
                 768,
                 1280,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 21,
@@ -1176,7 +1259,8 @@
                 0,
                 1536,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 22,
@@ -1190,7 +1274,8 @@
                 256,
                 1536,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 23,
@@ -1204,7 +1289,8 @@
                 512,
                 1536,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 24,
@@ -1218,7 +1304,8 @@
                 768,
                 1536,
                 1024
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 25,
@@ -1232,7 +1319,8 @@
                 0,
                 1792,
                 256
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 26,
@@ -1246,7 +1334,8 @@
                 256,
                 1792,
                 512
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 27,
@@ -1260,7 +1349,8 @@
                 512,
                 1792,
                 768
-            ]
+            ],
+            "classification": null
         },
         {
             "img_id": 28,
@@ -1274,7 +1364,8 @@
                 768,
                 1792,
                 1024
-            ]
+            ],
+            "classification": null
         }
     ]
 }
